@@ -1,1 +1,1 @@
-Original line 1 content
+Main branch version of line 1
